@@ -2,7 +2,7 @@
 
 ## Java基础
 
-* [java基础知识]()
+* [java基础知识](https://github.com/12581a/learning/blob/main/docs/program/JavaBasic/JavaBasic.md)
 
 * [J2EE基础知识回顾]()
 
